@@ -3,6 +3,7 @@ Hwang 정현 알고리즘 레포
 
 |기간|LINK|
 |:---:|:---:|
+|[24.02.19~24.03.01 24:00] 6주차 스터디|[LINK🔗](https://github.com/AlgorithmTa/Hwang/pull/12)|
 |[24.02.04~24.02.16 24:00] 5주차 스터디|[LINK🔗](https://github.com/AlgorithmTa/Hwang/pull/10)|
 |[24.01.29~24.02.02 24:00] 4주차 스터디|[LINK🔗](https://github.com/AlgorithmTa/Hwang/pull/8)|
 |[24.01.22~24.01.26 24:00] 3주차 스터디|[LINK🔗](https://github.com/AlgorithmTa/Hwang/pull/6)|
